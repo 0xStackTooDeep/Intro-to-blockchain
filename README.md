@@ -45,6 +45,32 @@ Understanding the basics of Ethereum is enough to start Dapp development but the
 - [EVM and Security](#evm-and-security)
 
 ### Web2 Resources
+***
 A Decentralised Application or DApp is just a normal web app with a blockchain like Ethereum serving as its backend. Hence, building a good DApp requires skills in traditional web2 development as well. A DApp consists of smart contracts that can be interacted with through a front-end. Usually these DApps also have backend architechture to handle various SDKs, libraries and even databases.
 
 ### Web3 Resources
+***
+The most important component of a DApp is the smart contract. The most popular language to write smart contracts in is [Solidity](https://docs.soliditylang.org/en/v0.8.18/). The best way to learn a new language is through hands-on practice and thats why [CryptoZombies](https://cryptozombies.io/) is recommended as it teaches solidity by building a simple game while explaining various concepts like data-types, arrays, functions, etc. 
+<br>
+[Solidity by example](https://solidity-by-example.org/) is also a great resource to learn basic syntax and concepts of the language. 
+<br>
+<br>
+By far the most complete and high quality tutorial on Solidity development is by Patrick Collins:
+<br>
+[32 HOURS FULL BLOCKCHAIN DEVELOPMENT COURSE](https://youtu.be/gyMwXuJrbJQ)
+<br>
+<br>
+After completing this course you should be able to create any project you can think of. If video tutorials are not your style and you prefer resources similar to crypto zombies then perhaps you can try out [LearnWeb3DAO](https://learnweb3.io/). The Freshmen track is perfect for anyone who has no expereience with blockchain whatsoever. LearnWeb3DAO with a lot of content and is just as good as the course by Patrick Collins.
+<br>
+<br>
+While going through either of the courses (or any other that you prefer) you should also learn about the web3 ecosystem. A basic knowledge of what protocols exist and what they do is critical to understand what problems are present in th ecosystem and how you can fix them.
+<br>
+These youtube channels have great videos on various topics ranging from DeFi, NFTS, Ethereum protocol, Bitcoin and other blockchains as well.
+* [White Board Crypto](https://www.youtube.com/@WhiteboardCrypto)
+* [Finematics](https://www.youtube.com/@Finematics)
+* [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
+* [Dapp university](https://www.youtube.com/@DappUniversity)
+* [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)
+* [Eat the Blocks](https://www.youtube.com/@EatTheBlocks)
+
+Improving your knowledge everyday is the only way to stay ahead in this industry.

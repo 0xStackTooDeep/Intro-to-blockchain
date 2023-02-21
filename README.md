@@ -74,3 +74,51 @@ These youtube channels have great videos on various topics ranging from DeFi, NF
 * [Eat the Blocks](https://www.youtube.com/@EatTheBlocks)
 
 Improving your knowledge everyday is the only way to stay ahead in this industry.
+<br>
+<br>
+Knowing about various DeFi protocols and how they work is important. Apart from watching videos from above channels, reading the wHitepapers of popular projects also gives a lot of technical insight into how they function.
+* [Uniswap v2](https://uniswap.org/whitepaper.pdf)
+* [Compound](https://compound.finance/documents/Compound.Whitepaper.pdf)
+* [Aave](https://academy.bit2me.com/wp-content/uploads/2021/07/Aave_Protocol_Whitepaper_v1_0.pdf)
+* [Maker DAO](https://makerdao.com/en/whitepaper/)
+* [Curve](https://curve.readthedocs.io/_/downloads/en/latest/pdf/)
+* [Uniswap v3](https://uniswap.org/whitepaper-v3.pdf)
+
+### EVM and Security
+***
+Learning solidity is not enough be an expert in writing smart contracts. Deploying and interacting with these contracts require gas, so as a developer you should optimise your code to consume th eleast amount of gas possibel. Also since smart contracts are immutable and transparent, anyone can find vulnerabilities in your code and exploit it. Therefore, making sure that your contract is secure is a top priority for any protocol.
+<br>
+<br>
+In order to write optmised and secure code, a deep knowledge of EVM and security practices is crucial. This field is so vast and technical that the best way to learn is reading blogs and articles from multiple experts. 
+Here is a list of a few resources that provide Alpha about the EVM:
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+* [Noxx](https://noxx.substack.com/)
+* [Degatchi](https://degatchi.com/articles)
+* [Deconstructing Solidity](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
+* [Ethereum Beige paper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf)
+* [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+
+If after accumilating all this Alphs you feel like security and auiditing might be your thing, then you should check out out the [Secureum Bootcamp](https://secureum.substack.com/). Afetr that you can play CTFs and participate in competitions. Here's a list:
+* [Ethernaut](https://github.com/ethereumbook/ethereumbook)
+* [Capture the Ether](https://capturetheether.com/)
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+* [Code4rena](https://code4rena.com/)
+* [Sherlock](https://www.sherlock.xyz/)
+* [Immunefi](https://immunefi.com/)
+
+The best way to learn advanced topics is to learn from the best. The greatest minds in the industry are always active on twitter and ready to help out anyone in need. The crypto community is very collaborative and dont hesitate in sharing information. Here's a list of twitter accounts that provide top tier content:
+* [@VitalikButerin](https://twitter.com/VitalikButerin)
+* [@bytes032](https://twitter.com/bytes032)
+* [@pashovkrum](https://twitter.com/pashovkrum)
+* [@0xRajeev](https://twitter.com/0xRajeev)
+* [@StErMi](https://twitter.com/StErMi)
+* [@PatrickAlphaC](https://twitter.com/PatrickAlphaC)
+* [@pardy_v](https://twitter.com/prady_v)
+<br>
+The industry is constantly growing and the only way to keep up is constantly learning. This repo is fileld with a lot of resources but there is a lot more content out there that's just as good. If you feel like this repo misses any crucial resources or you'd like to suggest some additional material then feel free to make a Pull Request. Let's keep this resource list active and up to date so it benefits anyone reading this.
+<br>
+<br>
+If you face any doubts regarding any topic then feel free to raise an issue and discuss it with other buidlers. Asking questions is the best way to understand and learn new topics.
+<br>
+<br>
+Happy Learning! WAGMI

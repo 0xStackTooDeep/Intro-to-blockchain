@@ -48,6 +48,7 @@ Understanding the basics of Ethereum is enough to start Dapp development but the
 ***
 A Decentralised Application or DApp is just a normal web app with a blockchain like Ethereum serving as its backend. Hence, building a good DApp requires skills in traditional web2 development as well. A DApp consists of smart contracts that can be interacted with through a front-end. Usually these DApps also have backend architechture to handle various SDKs, libraries and even databases.
 
+#### List of Web2 Resources:
 1. Basics of HTML, CSS (for building beautiful frontends).
 2. JavaScript Basics : Variables, Data Types, if-else blocks, Switch, Loops, Functions, async functions, callbacks : https://www.w3schools.com/js/
 3. Node.js basics: node, npm, package.json

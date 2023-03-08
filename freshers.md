@@ -21,8 +21,8 @@ This is a curated list of resources for the first yearites for the upcoming recr
     * [Cryptozombies](https://cryptozombies.io/en/course/) (First Six Modules)
     * [Solidity by Example](https://solidity-by-example.org/)
 * Decentralized Finance (DeFi)
-    * Decentralized Exchanges (DEXs) like Uniswap
-    * Lending/Borrowing Protocols (AAVE, Compound)
+    * Decentralized Exchanges (DEXs) like [Uniswap](https://uniswap.org/)
+    * Lending/Borrowing Protocols ([AAVE](https://aave.com/), [Compound](https://compound.finance/))
     * Stablecoins (USDC, USDT, BUSD etc.)
 
 * [LearnWeb3DAO](https://learnweb3.io/) (Freshers module)
